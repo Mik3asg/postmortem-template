@@ -6,6 +6,10 @@ A clean, professional postmortem template for DevOps and SRE teams — inspired 
 
 ---
 
+The Google SRE Workbook nails the theory. This is the practical bit — a ready-to-use template so you're not staring at a blank doc at 9am after a rough night on-call.
+
+---
+
 ## What's Inside
 
 A ready-to-use `.docx` template covering the full structure of a blameless postmortem:
