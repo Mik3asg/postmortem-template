@@ -25,7 +25,7 @@ Designed to work for any incident — from a single-team SSL outage to a multi-r
 
 ## How to Use
 
-1. Download `postmortem-template-sre-devops.docx`
+1. Download the template → [⬇️ postmortem-template-sre-devops.docx](https://github.com/Mik3asg/postmortem-template/releases/download/v1.0/postmortem-template-sre-devops.docx)
 2. Fill in the placeholders (shown in *italic grey*)
 3. Delete any sections not relevant to your incident
 4. Share with your team and track action items in your ticketing system
