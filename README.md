@@ -1,10 +1,8 @@
-
-Readme · MD
-Copy
-
 # 📋 Postmortem Template
 
 A clean, professional postmortem template for DevOps and SRE teams — inspired by the [Google SRE Workbook, Chapter 10](https://sre.google/workbook/postmortem-culture/).
+
+[![Download](https://img.shields.io/badge/⬇️_Download-Latest_Release-2563EB?style=for-the-badge)](https://github.com/Mik3asg/postmortem-template/releases/latest)
 
 ---
 
@@ -27,7 +25,7 @@ Designed to work for any incident — from a single-team SSL outage to a multi-r
 
 ## How to Use
 
-1. Download `postmortem-template-devops-sre.docx`
+1. Download `postmortem-template-sre-devops.docx`
 2. Fill in the placeholders (shown in *italic grey*)
 3. Delete any sections not relevant to your incident
 4. Share with your team and track action items in your ticketing system
