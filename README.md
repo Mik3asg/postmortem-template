@@ -44,7 +44,7 @@ Anyone working in DevOps, SRE, or infrastructure who wants a structured, repeata
 
 ## Related
 
-- 📝 Blog post: [The Postmortem Mindset: Why the Engineers Who Write Them Stand Out](https://systemsgo.live/post/the-postmortem-mindset-why-engineers-who-write-them-stand-out/)
+- 📝 Blog post: [The Postmortem Mindset: Why the Engineers Who Write Them Stand Out](https://systemsgo.live/post/the-blameless-postmortem-mindset-why-engineers-who-write-them-stand-out/)
 - 🌐 Tech blog: [systemsgo.live](https://systemsgo.live)
 
 ---
